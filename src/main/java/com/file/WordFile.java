@@ -10,7 +10,7 @@ import com.itextpdf.text.pdf.PdfWriter;
 
 import com.signup.*;
 
-import jakarta.servlet.http.*;
+import javax.servlet.http.*;
 public class WordFile extends HttpServlet {
 	public void doPost(HttpServletRequest req,HttpServletResponse res) throws IOException 
 	{
