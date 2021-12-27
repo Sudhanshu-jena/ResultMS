@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import com.Data.AddData;
 import com.signup.Login;
 
-import jakarta.servlet.http.*;
+import javax.servlet.http.*;
 
 public class UpdateProfile extends HttpServlet
 {

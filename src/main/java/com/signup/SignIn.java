@@ -1,8 +1,8 @@
 package com.signup;
 
-import jakarta.servlet.RequestDispatcher;
-import jakarta.servlet.ServletException;
-import jakarta.servlet.http.*;
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.http.*;
 import java.io.*;
 
 import com.Data.*;

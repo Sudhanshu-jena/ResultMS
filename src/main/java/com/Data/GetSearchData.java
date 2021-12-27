@@ -5,9 +5,9 @@ import java.sql.SQLException;
 
 import com.signup.Login;
 
-import jakarta.servlet.RequestDispatcher;
-import jakarta.servlet.ServletException;
-import jakarta.servlet.http.*;
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.http.*;
 
 public class GetSearchData extends HttpServlet
 {

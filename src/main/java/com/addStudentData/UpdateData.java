@@ -3,7 +3,7 @@ package com.addStudentData;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.SQLException;
-import jakarta.servlet.http.*;
+import javax.servlet.http.*;
 import com.signup.*;
 public class UpdateData extends HttpServlet
 {
