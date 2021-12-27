@@ -3,7 +3,7 @@ package com.signup;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-import jakarta.servlet.http.*;
+import javax.servlet.http.*;
 
 public class ForgotPassword extends HttpServlet
 {
